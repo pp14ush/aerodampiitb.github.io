@@ -8,8 +8,8 @@ header:
     url: /archive.html
 
   - titles:
-      en      : &EN       About
-    url: /about.html
+      en      : &EN       About Us
+    url: /about_us.html
 
 
 docs-en:
