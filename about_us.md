@@ -1,9 +1,6 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       About Us
-  # @end locale config
+title: About Us
 key: page-about
 ---
 ## DAMP Coordinator: Amal S Sebastian
