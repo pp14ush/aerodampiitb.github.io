@@ -3,9 +3,9 @@ header:
       en      : &EN       Course Reviews
     url: /course_reviews.html
 
-  - titles:
-      en      : &EN       Archive
-    url: /archive.html
+  # - titles:
+  #     en      : &EN       Archive
+  #   url: /archive.html
 
   - titles:
       en      : &EN       About Us

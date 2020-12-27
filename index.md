@@ -47,6 +47,8 @@ __*Our Goals:*__
 
 Feel free to reach out to us at [dampc@aero.iitb.ac.in](mailto:dampc@aero.iitb.ac.in). We are here to help.
 
+**Disclaimer** : The content of this website are opinions expressed by individual students. The information provided is for guidance purposes. Use the information at your own risk.
+
 
 <div style="text-align: center" >
 <div style="color:#0000FF" >

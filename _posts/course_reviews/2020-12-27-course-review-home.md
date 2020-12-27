@@ -40,5 +40,6 @@ Reviews contain the following information:
 
 - **Should you do this course?**
 
+---
 
 For the best navigational experience use a laptop/tablet. To access the course list on your mobile click on the <img class="image image--xs" src="threelines.png"/> button on the bottom left of your screen.
