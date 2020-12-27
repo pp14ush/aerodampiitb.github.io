@@ -1,46 +1,100 @@
 header:
   - titles:
       en      : &EN       Course Reviews
-    url: /course_reviews/second_year/AE-223.html
+    url: /course_reviews/second_year/ae-223.html
 
   - titles:
       en      : &EN       Archive
     url: /archive.html
 
   - titles:
-      en      : &EN       About
-    url: /about.html
+      en      : &EN       About Us
+    url: /about_us.html
 
 
 docs-en:
   - title:      Second Year Courses
     children:
       - title:  AE 223
-        url:        /course_reviews/second_year/AE-223.html
+        url:        /course_reviews/second_year/ae-223.html
       - title:  AE 225
-        url:        /course_reviews/second_year/AE-225.html
+        url:        /course_reviews/second_year/ae-225.html
+      - title:  AE 227
+        url:        /course_reviews/second_year/ae-227.html
+      - title:  AE 234
+        url:        /course_reviews/second_year/ae-234.html
+      - title:  AE 236
+        url:        /course_reviews/second_year/ae-236.html
+      - title:  AE 238
+        url:        /course_reviews/second_year/ae-238.html
+      - title:  AE 240
+        url:        /course_reviews/second_year/ae-240.html
+      # - title:  AE 242
+      #   url:        /course_reviews/second_year/ae-242.html
 
   - title:      Third Year Courses
     children:
-      - title:  AE 333
-        url:        /course_reviews/third_year/AE-333.html
+      # - title:  AE 305
+      #   url:        /course_reviews/third_year/ae-305.html
+      - title:  AE 308
+        url:        /course_reviews/third_year/ae-308.html
+      # - title:  AE 312
+      #   url:        /course_reviews/third_year/ae-312.html
+      # - title:  AE 314
+      #   url:        /course_reviews/third_year/ae-314.html
+      # - title:  AE 316
+      #   url:        /course_reviews/third_year/ae-316.html
+      # - title:  AE 326
+      #   url:        /course_reviews/third_year/ae-326.html
+      - title:  AE 330
+        url:        /course_reviews/third_year/ae-330.html
+      - title:  AE 332
+        url:        /course_reviews/third_year/ae-332.html
+      # - title:  AE 333
+      #   url:        /course_reviews/third_year/ae-333.html
+      # - title:  AE 427
+      #   url:        /course_reviews/third_year/ae-427.html
 
   - title:      Fourth Year Courses
     children:
       - title:  AE 407
-        url:        /course_reviews/third_year/AE-333.html
+        url:        /course_reviews/fourth_year/ae-407.html
+      - title:  AE 410
+        url:        /course_reviews/fourth_year/ae-410.html
 
   - title:      Department Electives
     children:
-      - title:  AE 333
-        url:        /course_reviews/third_year/AE-333.html
+      - title:  AE 626
+        url:        /course_reviews/department_elective/ae-626.html
+      - title:  AE 484
+        url:        /course_reviews/department_elective/ae-484.html
+      - title:  AE 651
+        url:        /course_reviews/department_elective/ae-651.html
+      - title:  AE 667
+        url:        /course_reviews/department_elective/ae-667.html
+      - title:  AE 755
+        url:        /course_reviews/department_elective/ae-755.html
+      - title:  AE 624
+        url:        /course_reviews/department_elective/ae-624.html
+      - title:  AE 604
+        url:        /course_reviews/department_elective/ae-604.html
 
   - title:      Institute Electives
     children:
-      - title:  AE 333
-        url:        /course_reviews/third_year/AE-333.html
+      - title:  PH 426
+        url:        /course_reviews/institute_elective/ph-426.html
+      - title:  GNR 652
+        url:        /course_reviews/institute_elective/gnr-652.html
+      - title:  GP 401
+        url:        /course_reviews/institute_elective/gp-401.html
+      - title:  ME 316
+        url:        /course_reviews/institute_elective/me-316.html
 
   - title:      Minors
     children:
-      - title:  CS Minor
-        url:        /course_reviews/third_year/AE-333.html
+      - title:  SysCon
+        url:        /course_reviews/minor/syscon/course_list.html
+      - title:  CSE
+        url:        /course_reviews/minor/cse/course_list.html
+      - title:  Electrical Engineering
+        url:        /course_reviews/minor/elec/course_list.html
