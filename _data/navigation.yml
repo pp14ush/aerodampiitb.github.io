@@ -1,7 +1,7 @@
 header:
   - titles:
       en      : &EN       Course Reviews
-    url: /course_reviews/second_year/ae-223.html
+    url: /course_reviews.html
 
   - titles:
       en      : &EN       Archive
