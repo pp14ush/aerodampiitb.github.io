@@ -64,20 +64,23 @@ docs-en:
 
   - title:      Department Electives
     children:
-      - title:  AE 626
-        url:        /course_reviews/department_elective/ae-626.html
       - title:  AE 484
         url:        /course_reviews/department_elective/ae-484.html
+      - title:  AE 604
+        url:        /course_reviews/department_elective/ae-604.html
+      - title:  AE 624
+        url:        /course_reviews/department_elective/ae-624.html
+      - title:  AE 626
+        url:        /course_reviews/department_elective/ae-626.html
       - title:  AE 651
         url:        /course_reviews/department_elective/ae-651.html
       - title:  AE 667
         url:        /course_reviews/department_elective/ae-667.html
+      - title:  AE 706
+        url:        /course_reviews/department_elective/ae-706.html
       - title:  AE 755
         url:        /course_reviews/department_elective/ae-755.html
-      - title:  AE 624
-        url:        /course_reviews/department_elective/ae-624.html
-      - title:  AE 604
-        url:        /course_reviews/department_elective/ae-604.html
+
 
   - title:      Institute Electives
     children:
