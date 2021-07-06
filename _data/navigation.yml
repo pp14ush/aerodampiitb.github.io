@@ -34,8 +34,8 @@ docs-en:
 
   - title:      Third Year Courses
     children:
-      # - title:  AE 305
-      #   url:        /course_reviews/third_year/ae-305.html
+      - title:  AE 305
+        url:        /course_reviews/third_year/ae-305.html
       - title:  AE 308
         url:        /course_reviews/third_year/ae-308.html
       # - title:  AE 312
@@ -44,14 +44,14 @@ docs-en:
       #   url:        /course_reviews/third_year/ae-314.html
       # - title:  AE 316
       #   url:        /course_reviews/third_year/ae-316.html
-      # - title:  AE 326
-      #   url:        /course_reviews/third_year/ae-326.html
+      - title:  AE 326
+        url:        /course_reviews/third_year/ae-326.html
       - title:  AE 330
         url:        /course_reviews/third_year/ae-330.html
       - title:  AE 332
         url:        /course_reviews/third_year/ae-332.html
-      # - title:  AE 333
-      #   url:        /course_reviews/third_year/ae-333.html
+      - title:  AE 333
+        url:        /course_reviews/third_year/ae-333.html
       # - title:  AE 427
       #   url:        /course_reviews/third_year/ae-427.html
 
@@ -74,12 +74,18 @@ docs-en:
         url:        /course_reviews/department_elective/ae-626.html
       - title:  AE 651
         url:        /course_reviews/department_elective/ae-651.html
+      - title:  AE 656
+        url:        /course_reviews/department_elective/ae-656.html
       - title:  AE 667
         url:        /course_reviews/department_elective/ae-667.html
+      - title:  AE 666
+        url:        /course_reviews/department_elective/ae-666.html
       - title:  AE 706
         url:        /course_reviews/department_elective/ae-706.html
       - title:  AE 755
         url:        /course_reviews/department_elective/ae-755.html
+      - title:  AE 759
+        url:        /course_reviews/department_elective/ae-759.html
 
 
   - title:      Institute Electives
