@@ -6,6 +6,11 @@ sidebar:
 permalink: /course_reviews.html
 ---
 
+
+For the best navigational experience use a laptop/tablet. To access the course list on your mobile click on the <img class="image image--xs" src="threelines.png"/> button on the bottom left of your screen.
+
+---
+
 Here you can find the course reviews for:
 - Core courses
 - Department Electives
@@ -41,5 +46,3 @@ Reviews contain the following information:
 - **Should you do this course?**
 
 ---
-
-For the best navigational experience use a laptop/tablet. To access the course list on your mobile click on the <img class="image image--xs" src="threelines.png"/> button on the bottom left of your screen.
