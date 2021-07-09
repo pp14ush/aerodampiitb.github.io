@@ -1,6 +1,17 @@
 ---
 layout: article
 title: Welcome to the Aerospace DAMP Blog
+header:
+  theme: dark
+  background: 'linear-gradient(90deg, rgb(65, 59, 103, 1), rgb(43, 46, 91, 1))'
+article_header:
+  type: cover
+  # theme: dark
+  # background_color: '#203028'
+  image:
+    # gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /aero.jpg
+
 #articles:
 #  excerpt_type: html
 ---
@@ -34,7 +45,7 @@ __*Our Goals:*__
 * Motivate students to perform better in academics as well as encourage them to excel in their other interests.
 * Improve communication between the faculty and students.
 
-## Initiatitives by the 2019-20 team:
+## Initiatives by the 2019-20 team:
 * Revamp the __Department Academic Volunteer Programme__ . This wing of the DAMP team focuses on conducting "Basics" and "Doubt Clearing" Academic Help Sessions for students.
 * To conduct a Aerospace Faculty Research Presentation and Luncheon to improve student-faculty relations
 * Continuing the highly-regarded novel approach to boosting Mathematical skills of under performing students through  **Math Help Sessions**.
@@ -53,7 +64,7 @@ Feel free to reach out to us at [dampc@aero.iitb.ac.in](mailto:dampc@aero.iitb.a
 <div style="text-align: center" >
 <div style="color:#0000FF" >
 
-<i>Created and Maintained by: Amal S Sebastian, Vishnu Shankar</i>
+<b>Created and Maintained by: Amal S Sebastian, Harshil Naik and Pranjal Gupta</b>
 
 </div>
 </div>

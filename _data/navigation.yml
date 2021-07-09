@@ -3,15 +3,18 @@ header:
       en      : &EN       Course Reviews
     url: /course_reviews.html
 
-  # - titles:
-  #     en      : &EN       Archive
-  #   url: /archive.html
+  - titles:
+      en      : &EN       Project Reviews
+    url: /project_reviews.html
 
   - titles:
       en      : &EN       About Us
     url: /about_us.html
 
 
+
+
+# Course Reviews Navigation
 docs-en:
   - title:      Second Year Courses
     children:
@@ -29,8 +32,6 @@ docs-en:
         url:        /course_reviews/second_year/ae-238.html
       - title:  AE 240
         url:        /course_reviews/second_year/ae-240.html
-      # - title:  AE 242
-      #   url:        /course_reviews/second_year/ae-242.html
 
   - title:      Third Year Courses
     children:
@@ -38,12 +39,6 @@ docs-en:
         url:        /course_reviews/third_year/ae-305.html
       - title:  AE 308
         url:        /course_reviews/third_year/ae-308.html
-      # - title:  AE 312
-      #   url:        /course_reviews/third_year/ae-312.html
-      # - title:  AE 314
-      #   url:        /course_reviews/third_year/ae-314.html
-      # - title:  AE 316
-      #   url:        /course_reviews/third_year/ae-316.html
       - title:  AE 326
         url:        /course_reviews/third_year/ae-326.html
       - title:  AE 330
@@ -52,8 +47,6 @@ docs-en:
         url:        /course_reviews/third_year/ae-332.html
       - title:  AE 333
         url:        /course_reviews/third_year/ae-333.html
-      # - title:  AE 427
-      #   url:        /course_reviews/third_year/ae-427.html
 
   - title:      Fourth Year Courses
     children:
@@ -87,7 +80,6 @@ docs-en:
       - title:  AE 759
         url:        /course_reviews/department_elective/ae-759.html
 
-
   - title:      Institute Electives
     children:
       - title:  PH 426
@@ -107,3 +99,153 @@ docs-en:
         url:        /course_reviews/minor/cse/course_list.html
       - title:  Electrical Engineering
         url:        /course_reviews/minor/elec/course_list.html
+
+
+
+
+# Main Project Page Navigation
+project-en:
+  - title:      SLP
+    children:
+      - title:  Reviews
+        url:        /project_reviews/slp/structures/haldar.html
+
+  - title:      BTP
+    children:
+      - title:  Reviews
+        url:        /project_reviews/btp/structures/gogu.html
+
+  - title:      DDP
+    children:
+      - title:  Reviews
+        url:        /project_reviews/controls/slp/debashish.html
+
+  - title:      SURP
+    children:
+      - title:  Reviews
+        url:        /project_reviews/surp/controls/debashish.html
+
+  - title:      Other projects
+    children:
+      - title:  Reviews
+        url:        /project_reviews/other/controls/maity.html
+
+
+
+
+# SLP Reviews Navigation
+slp-en:
+  - title:      Aerodynamics
+    children:
+      - title:  Prof. Vineeth Nair
+        url:        /project_reviews/slp/aerodynamics/nair.html
+      - title:  Prof. Dhwanil Shukla
+        url:        /project_reviews/slp/aerodynamics/dhwanil.html
+
+  - title:      Structures
+    children:
+      - title:  Prof. Krishnendhu Haldar
+        url:        /project_reviews/slp/structures/haldar.html
+      - title:  Prof. PJ Guruprasad
+        url:        /project_reviews/slp/structures/guruprasad.html
+      - title:  Prof. Susmita Naskar
+        url:        /project_reviews/slp/structures/naskar.html
+      - title:  Prof. Amuthan Ramabathiran
+        url:        /project_reviews/slp/structures/amuthan.html
+      - title:  Prof. Abhijit Gogulapati
+        url:        /project_reviews/slp/structures/gogu.html
+
+
+
+  - title:      Controls
+    children:
+      - title:  Prof. Hemendra Arya
+        url:        /project_reviews/slp/controls/arya.html
+      - title:  Prof. Debasish Chatterjee (SysCon)
+        url:        /project_reviews/slp/controls/debashish.html
+      - title:  Prof. Ravi Banavar (SysCon)
+        url:        /project_reviews/slp/controls/banavar.html
+
+  - title:      Propulsion
+    children:
+      - title:  Prof. Kowsik Bodi
+        url:        /project_reviews/slp/propulsion/bodi.html
+      - title:  Prof. Krishnendhu Sinha
+        url:        /project_reviews/slp/propulsion/ksinha.html
+      - title:  Prof. A. M. Pradeep
+        url:        /project_reviews/slp/propulsion/pradeep.html
+
+
+# SURP Reviews Navigation
+surp-en:
+  # - title:      Aerodynamics
+  #   children:
+  #     # - title:  Prof. Prabhu Ramachandran
+  #     #   url:        /course_reviews/second_year/ae-223.html
+
+  - title:      Structures
+    children:
+      - title:  Prof. Amuthan Ramabathiran
+        url:        /project_reviews/surp/structures/amuthan.html
+
+  - title:      Controls
+    children:
+      - title:  Prof. Debasish Chatterjee
+        url:        /project_reviews/surp/controls/debashish.html
+
+  # - title:      Propulsion
+  #   children:
+      # - title:  Prof. Sudarshan Kumar
+      #   url:        /course_reviews/department_elective/ae-484.html
+
+
+
+
+# BTP Reviews Navigation
+btp-en:
+  - title:      Aerodynamics
+    children:
+      - title:  Prof. Dhwanil Shukla
+        url:        /project_reviews/btp/aerodynamics/dhwanil.html
+
+  - title:      Structures
+    children:
+      - title:  Prof. Abhijit Gogulapati
+        url:        /project_reviews/btp/structures/gogu.html
+      - title:  Prof. PJ Guruprasad
+        url:        /project_reviews/btp/structures/guruprasad.html
+
+  - title:      Controls
+    children:
+      - title:  Prof. Arnab Maity
+        url:        /project_reviews/btp/controls/maity.html
+
+  - title:      Propulsion
+    children:
+      # - title:  Prof. Sudarshan Kumar
+      #   url:        /course_reviews/department_elective/ae-484.html
+
+
+#Other projects
+other-en:
+  # - title:      Aerodynamics
+  #   children:
+  #     # - title:  Prof. Prabhu Ramachandran
+  #     #   url:        /course_reviews/second_year/ae-223.html
+
+  # - title:      Structures
+  #   children:
+  #     - title:  Prof. Amuthan Ramabathiran
+  #       url:        /project_reviews/surp/structures/amuthan.html
+
+  - title:      Controls
+    children:
+      - title:  Prof. Arnab Maity
+        url:        /project_reviews/other/controls/maity.html
+      - title:  Prof. Ravi Banavar (SysCon)
+        url:        /project_reviews/other/controls/banavar.html
+
+  - title:      Propulsion
+    children:
+      - title:  Prof. Krishnendhu Sinha
+        url:        /project_reviews/other/propulsion/ksinha.html
