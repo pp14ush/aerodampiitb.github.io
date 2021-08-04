@@ -89,7 +89,9 @@ docs-en:
       - title:  GP 401
         url:        /course_reviews/institute_elective/gp-401.html
       - title:  ME 316
-        url:        /course_reviews/institute_elective/me-316.html
+        url:        /course_reviews/institute_elective/me-316.html       
+      - title:  CL 686
+        url:        /course_reviews/institute_elective/cl-686.html
 
   - title:      Minors
     children:
