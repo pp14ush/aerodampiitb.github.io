@@ -92,8 +92,11 @@ docs-en:
         url:        /course_reviews/institute_elective/me-316.html       
       - title:  CL 686
         url:        /course_reviews/institute_elective/cl-686.html
-      - title:  BB 610
-        url:        /course_reviews/institute_elective/bb-610.html
+      - title:  BB 601
+        url:        /course_reviews/institute_elective/bb-601.html
+      - title:  ME 761
+        url:        /course_reviews/institute_elective/me-761.html
+     
       
   - title:      Minors
     children:
